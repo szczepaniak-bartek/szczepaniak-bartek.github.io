@@ -2,7 +2,7 @@ title: Szczepaniak-Bartek
 url: "https://szczepaniak-bartek.github.io"
 baseurl:
 google_analytics_key:
-google_maps_javascript_api_key:
+google_maps_javascript_api_key: AIzaSyCkbS_SAs54pEJCOfrjGzL8WOHPLkgJ3qw
 disqus_shortname:
 
 # Default description in social shares for the jekyll-seo-tag gem
