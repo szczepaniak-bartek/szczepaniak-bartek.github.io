@@ -1,24 +1,24 @@
-title: Urban Template
-url: "https://teal-worm.cloudvent.net"
+title: Szczepaniak-Bartek
+url: "https://szczepaniak-bartek.github.io"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: Jekyll template with example content for a web agency.
+description: Home page and work portfolio of Szczepaniak Bartek
 
 # Author details for the jekyll-seo-tag gem
-author:
-  name:
-  email:
+author: szczepaniak
+  name: bartus
+  email: szczepaniak.bartek@gmail.com
   twitter: # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
-social:
-  name: Urban Template
-  links:
-    - https://github.com/CloudCannon/urban-jekyll-template
+#social:
+#  name: Urban Template
+#  links:
+#    - https://github.com/CloudCannon/urban-jekyll-template
 
 collections:
   staff_members:
