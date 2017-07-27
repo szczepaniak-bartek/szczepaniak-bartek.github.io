@@ -35,7 +35,7 @@ Witcher pendant, FDM printed game model.
 ![](/uploads/versions/10001470-10200869421377180-837441704-n---x----526-701x---.jpg)
 
 ```
-​Back side slipper.
+​Back flip slipper.
 ```
 
 &nbsp;
