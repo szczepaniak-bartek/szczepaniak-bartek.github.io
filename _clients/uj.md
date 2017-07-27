@@ -15,6 +15,7 @@ image_path: /uploads/dsc-5451vert.jpg
 
 ![](/uploads/versions/dsc-5461---x----1511-1000x---.jpg)
 
-<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/bdd063702c864c3ea8488fa6fa7463e2/embed" frameborder="0" allowvr="" allowfullscreen="" mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe><p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">&nbsp;</p></div>
+<div class="sketchfab-embed-wrapper"><pre>Pre-cleaned raw mesh resulting from photo-reconstruction.​
+</pre><iframe width="640" height="480" src="https://sketchfab.com/models/bdd063702c864c3ea8488fa6fa7463e2/embed" frameborder="0" allowvr="" allowfullscreen="" mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe><p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">&nbsp;</p></div>
 
 &nbsp;
