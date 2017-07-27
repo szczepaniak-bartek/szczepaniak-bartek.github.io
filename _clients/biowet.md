@@ -1,15 +1,14 @@
 ---
-name: Cause Template
-subtitle: Not for profit template for Jekyll
-external_url: https://github.com/CloudCannon/cause-jekyll-template
-image_path: /images/clients/cause.jpg
+name: Biowet Ketamina
+subtitle: Preproduction product visualisation
+external_url:
+image_path:
 ---
 
-Not for profit themed template for Jekyll. Browse through a [live demo](#TODO).
-Increase the web presence of a not for profit or cause website with this configurable theme.
 
-CloudCannon was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-Find more templates and themes at [Jekyll Tips](http://jekyll.tips/templates/).
+Not for profit themed template for Jekyll. Browse through a [live demo](#TODO).Increase the web presence of a not for profit or cause website with this configurable theme.
+
+CloudCannon was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.Find more templates and themes at [Jekyll Tips](http://jekyll.tips/templates/).
 
 Learn Jekyll with step-by-step tutorials and videos at [Jekyll Tips](http://jekyll.tips/).
 
@@ -36,15 +35,15 @@ Cause was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should su
 
 Install the dependencies with [Bundler](http://bundler.io/):
 
-~~~bash
+```bash
 $ bundle install
-~~~
+```
 
 Run `jekyll` commands through Bundler to ensure you're using the right versions:
 
-~~~bash
+```bash
 $ bundle exec jekyll serve
-~~~
+```
 
 ## Editing
 
@@ -56,9 +55,7 @@ This site uses the [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) pl
 
 ## Google Analytics
 
-[Google Analytics](https://www.google.com/analytics/) is a third party website analytics tool. To install:
-1. Add your Google Analytics key to `_config.yml`
-2. Run your site in production `JEKYLL_ENV=production`. This is the default in CloudCannon and GitHub Pages.
+[Google Analytics](https://www.google.com/analytics/) is a third party website analytics tool. To install:1. Add your Google Analytics key to `_config.yml`2. Run your site in production `JEKYLL_ENV=production`. This is the default in CloudCannon and GitHub Pages.
 
 ## Donorbox
 
