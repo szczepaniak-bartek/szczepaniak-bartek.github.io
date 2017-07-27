@@ -1,5 +1,5 @@
 ---
-name: Biowet Ketamina
+name: Biowet
 subtitle: Preproduction product visualisation
 external_url:
 image_path:
