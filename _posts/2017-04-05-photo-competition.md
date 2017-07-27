@@ -12,6 +12,6 @@ date: 2017-04-05 00:00:00
 *subject was bikejoring.*
 </code></pre></div>
 
-![](/uploads/versions/12916255-10204564479231317-7248674827341159395-o---x----2048-1355x---.jpg)
+![bikejoring with wolfy](/uploads/versions/12916255-10204564479231317-7248674827341159395-o---x----2048-1355x---.jpg)
 
-filler
+###### my lovely dog.
