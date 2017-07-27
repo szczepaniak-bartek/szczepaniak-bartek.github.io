@@ -1,5 +1,5 @@
 ---
-title: Xenomorph
+title: Xenomorph Print
 categories:
   - Photography
   - 3dprint
