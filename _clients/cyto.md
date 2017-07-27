@@ -18,3 +18,7 @@ Papanicolaou Testing and delivery system designed by AGH UST and Jagiellonian Un
 * Photorealistic rendering
 * Color balance, grading, special effects overlay
 * Optimization for print and internet presentation.
+
+![](/uploads/versions/-1---x----1000-707x---.jpg)
+
+![](/uploads/versions/-8---x----1000-707x---.jpg)
