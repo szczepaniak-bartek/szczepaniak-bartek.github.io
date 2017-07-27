@@ -1,15 +1,14 @@
 ---
-name: Frisco Template
-subtitle: App marketing template for Jekyll
-external_url: https://github.com/CloudCannon/frisco-jekyll-template
-image_path: /images/clients/frisco.jpg
+name: AGH visualization.
+subtitle: Manipulator and Milling machine visualization.
+external_url:
+image_path: /uploads/bikos-hał-hard-is-to-poczer-gad-dem-egs-proporli-2.jpg
 ---
 
-App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).
-Increase the web presence of a App with this configurable theme.
 
-Frisco was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-Find more templates and themes at [Jekyll Tips](http://jekyll.tips/templates/).
+App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).Increase the web presence of a App with this configurable theme.
+
+Frisco was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.Find more templates and themes at [Jekyll Tips](http://jekyll.tips/templates/).
 
 Learn Jekyll with step-by-step tutorials and videos at [Jekyll Tips](http://jekyll.tips/).
 
@@ -40,15 +39,15 @@ Frisco was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should s
 
 Install the dependencies with [Bundler](http://bundler.io/):
 
-~~~bash
+```bash
 $ bundle install
-~~~
+```
 
 Run `jekyll` commands through Bundler to ensure you're using the right versions:
 
-~~~bash
+```bash
 $ bundle exec jekyll serve
-~~~
+```
 
 ## Editing
 
