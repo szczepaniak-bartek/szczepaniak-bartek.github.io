@@ -2,7 +2,7 @@
 name: Cytology manipulator
 subtitle: Prototype visualization for scientific presentation of cytology
 external_url:
-image_path:
+image_path: /uploads/-5.jpg
 ---
 
 
@@ -18,5 +18,3 @@ Papanicolaou Testing and delivery system designed by AGH UST and Jagiellonian Un
 * Photorealistic rendering
 * Color balance, grading, special effects overlay
 * Optimization for print and internet presentation.
-
-&nbsp;
