@@ -1,12 +1,12 @@
 ---
 name: Biowet
-subtitle: Preproduction visualisation
+subtitle: Preproduction visualisation.
 external_url:
 image_path: /uploads/bottle-menisk-box-8bit.png
 ---
 
 
-Photorealistic presentation of the upcoming product line for Biowet.&nbsp;
+Photorealistic presentation of the upcoming product line for Biowet.
 
 ## Project scope.
 
