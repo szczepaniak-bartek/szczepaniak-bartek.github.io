@@ -1,6 +1,6 @@
 ---
 name: Cytology manipulator
-subtitle: Prototype visualization for scientific presentation of cytology
+subtitle: Prototype visualization for scientific presentation .
 external_url:
 image_path: /uploads/-5.jpg
 ---
