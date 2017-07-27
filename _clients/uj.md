@@ -14,3 +14,5 @@ image_path: /uploads/dsc-5451vert.jpg
 * Preparing images for presentation materials
 
 ![](/uploads/versions/dsc-5461---x----1511-1000x---.jpg)
+
+&nbsp;
