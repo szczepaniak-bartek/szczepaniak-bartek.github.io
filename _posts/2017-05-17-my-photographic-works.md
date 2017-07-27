@@ -8,7 +8,7 @@ date: 2017-05-17 00:00:00
 ---
 
 
-&nbsp;
+
 
 ![](/uploads/versions/12119922-10203673930128146-1839135821827577388-o---x----2048-1355x---.jpg)
 
@@ -39,3 +39,5 @@ Witcher pendant game model.
 ```
 ​Back side slipper.
 ```
+
+&nbsp;
