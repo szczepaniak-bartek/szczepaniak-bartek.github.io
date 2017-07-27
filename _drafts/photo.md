@@ -1,7 +1,6 @@
 ---
-title: Pelvis scan
+title: My photographic works
 categories:
-  - 3dprint
   - Photography
 author_staff_member:
 show_comments: true
