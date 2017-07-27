@@ -1,19 +1,18 @@
 ---
-name: Edition Template
-subtitle: Product documentation template for Jekyll
-external_url: https://github.com/CloudCannon/edition-jekyll-template
-image_path: /images/clients/edition.png
+name: Cytopathology manipulator
+subtitle: Prototype visualization for scientific presentation.
+external_url:
+image_path:
 ---
 
-Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
-Start documenting your product, application, service or website with this configurable theme.
 
-Edition was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-Find more templates and themes at [Jekyll Tips](http://jekyll.tips/templates/).
+Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/). Start documenting your product, application, service or website with this configurable theme.
+
+Edition was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll. Find more templates and themes at [Jekyll Tips](http://jekyll.tips/templates/).
 
 Learn Jekyll with step-by-step tutorials and videos at [Jekyll Tips](http://jekyll.tips/).
 
-## Features
+## Project scope
 
 * Two column layout
 * Full text search
@@ -36,15 +35,15 @@ Edition was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should 
 
 Install the dependencies with [Bundler](http://bundler.io/):
 
-~~~bash
+```bash
 $ bundle install
-~~~
+```
 
 Run `jekyll` commands through Bundler to ensure you're using the right versions:
 
-~~~bash
+```bash
 $ bundle exec jekyll serve
-~~~
+```
 
 ## Editing
 
