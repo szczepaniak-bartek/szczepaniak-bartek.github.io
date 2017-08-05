@@ -14,11 +14,12 @@ map:
 		<form action="http://formspree.io/szczepaniak.bartek+github.io@gmail.com" method="post" class="contact-form">
             <input type="hidden" name="_next" value="{{ site.baseurl }}/contact-success/" />
 			<input type="text" name="_gotcha" style="display: none;" />
+			<input type="hidden" name="_subject" value="New submission to szczepaniak-bartek.github.io!" />
 
 			<div class="halves">
 				<div>
 					<label for="name">First Name</label>
-					<input type="text" name="first-name" id="first-name" placeholder="John" />
+					<input type="text" name="name" id="first-name" placeholder="John" />
 				</div>
 
 				<div>
